@@ -10,3 +10,4 @@ Watch tutorial on YouTube.
 
 1. Open index.html in your browser
 2. Put the lime in the coconut
+3. Have fun
